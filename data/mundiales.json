@@ -51,5 +51,31 @@
     "slug": "sudafrica-2010",
     "resumen": "España se consagra campeon del mundo por primera vez.",
     "descripcion": "Mundial con muchas sorpresas; España se impuso con un equipo joven y talentoso."
+  },
+  {
+    "nombre": "Copa Mundial Alemania 2006",
+    "anio": 2006,
+    "sede": "Alemania",
+    "campeon": "Italia",
+    "subcampeon": "Francia",
+    "goleador": "Miroslav Klose",
+    "equipos": 32,
+    "imagen": "alemania-2006.avif",
+    "slug": "alemania-2006",
+    "resumen": "Italia gano su cuarto titulo en los penales ante Francia.",
+    "descripcion": "La final entre Italia y Francia quedo marcada por el cabezazo de Zidane a Materazzi. Italia vencio en penales y conquisto su cuarto titulo mundial."
+  },
+  {
+    "nombre": "Copa Mundial Corea-Japon 2002",
+    "anio": 2002,
+    "sede": "Corea del Sur y Japon",
+    "campeon": "Brasil",
+    "subcampeon": "Alemania",
+    "goleador": "Ronaldo",
+    "equipos": 32,
+    "imagen": "corea-japon-2002.avif",
+    "slug": "corea-japon-2002",
+    "resumen": "Brasil gano su quinto titulo mundialista con Ronaldo como figura.",
+    "descripcion": "Primer Mundial organizado en Asia. Brasil domino el torneo con Ronaldo marcando 8 goles, incluyendo un doblete en la final ante Alemania."
   }
 ]
