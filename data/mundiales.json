@@ -1,0 +1,55 @@
+[
+  {
+   "nombre": "Copa Mundial Qatar 2022",
+    "anio": 2022,
+    "sede": "Qatar",
+    "campeon": "Argentina",
+    "subcampeon": "Francia",
+    "goleador": "Kylian Mbappe",
+    "equipos": 32,
+    "imagen": "qatar-2022.avif",
+    "slug": "qatar-2022",
+    "resumen": "Argentina campeon tras una final epica ante Francia.",
+    "descripcion": "Primer Mundial en Medio Oriente; Argentina gano en penales su tercer titulo."
+
+  },
+  {
+    "nombre": "Copa Mundial Rusia 2018",
+    "anio": 2018,
+    "sede": "Rusia",
+    "campeon": "Francia",
+    "subcampeon": "Croacia",
+    "goleador": "Harry Kane",
+    "equipos": 32,
+    "imagen": "rusia-2018.avif",
+    "slug": "rusia-2018",
+    "resumen": "Francia se consagra campeon del mundo por segunda vez.",
+    "descripcion": "Mundial con muchas sorpresas; Francia se impuso con un equipo joven y talentoso."
+  },
+  {
+    "nombre": "Copa Mundial Brasil 2014",
+    "anio": 2014,
+    "sede": "Brasil",
+    "campeon": "Alemania",
+    "subcampeon": "Argentina",
+    "goleador": "James Rodriguez",
+    "equipos": 32,
+    "imagen": "brasil-2014.avif",
+    "slug": "brasil-2014",
+    "resumen": "Alemania se consagra campeon del mundo por cuarta vez.",
+    "descripcion": "Mundial con muchas sorpresas; Alemania se impuso con un equipo joven y talentoso."
+  },
+  {
+    "nombre": "Copa Mundial Sudafrica 2010",
+    "anio": 2010,
+    "sede": "Sudafrica",
+    "campeon": "España",
+    "subcampeon": "Holanda",
+    "goleador": "Thomas Muller",
+    "equipos": 32,
+    "imagen": "sudafrica-2010.avif",
+    "slug": "sudafrica-2010",
+    "resumen": "España se consagra campeon del mundo por primera vez.",
+    "descripcion": "Mundial con muchas sorpresas; España se impuso con un equipo joven y talentoso."
+  }
+]
